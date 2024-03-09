@@ -2,7 +2,6 @@
 - 👀 I’m interested in C# , C/C++ , Unity
 - 🌱 I’m currently learning JavaScript , HTML , CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 My email adress is kemal_emre2002@hotmail.com.
 
 <!---
 44kemox44/44kemox44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
