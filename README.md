@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @44kemox44
-- 👀 I’m interested in C# , C/C++ , Unity
-- 🌱 I’m currently learning JavaScript , HTML , CSS
+- 👀 I’m interested in C/C++, Python and C#
+- 🌱 I’m currently learning ML , Deep Learning, Computer Vision
 - 💞️ I’m looking to collaborate on ...
 
 <!---
